@@ -1,4 +1,4 @@
-set(_cura_protobuf_url https://github.com/google/protobuf/archive/v3.0.2.tar.gz)
+set(_cura_protobuf_url https://github.com/protocolbuffers/protobuf/releases/download/v3.12.3/protobuf-all-3.12.3.tar.gz)
 set(_cura_protobuf_md5 7349a7f43433d72c6d805c6ca22b7eeb)
 
 if(BUILD_OS_OSX)
